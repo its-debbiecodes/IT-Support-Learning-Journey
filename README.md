@@ -16,3 +16,7 @@ This repository will contain:
 
 ## Goal
 To become job ready within 30 days and to get an entry role in tech.
+
+## Daily progress
+- Day 1- Understanding IT support roles and responsibility
+- Day 2 - Setting up my GitHub account and documenting my journey
